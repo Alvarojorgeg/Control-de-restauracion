@@ -1,9 +1,9 @@
 # Control de restauración
 
-Bienvenido a este pequeño proyecto, mi nombre es Álvaro y os presento mi proyecto de gestión de restauración.
+Bienvenido a este proyecto, mi nombre es Álvaro y os presento mi proyecto de gestión de restauración.
 
 # Introducción
-Este proyecto es un sistema completo para la gestión de restaurantes, desarrollado principalmente en web. Podemos controlar diferentes áreas del negocio, desde las mesas hasta la nómina de los empleados y la gestión de facturas.
+Este proyecto es un sistema completo para la gestión de restaurantes, desarrollado principalmente en PHP y Javascript. Podemos controlar diferentes áreas del negocio, desde las mesas hasta la nómina de los empleados y la gestión de facturas.
 
 # Funcionalidades
 Gestión de Mesas: Controla el estado de las mesas en tiempo real.
