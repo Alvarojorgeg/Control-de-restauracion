@@ -11,11 +11,11 @@ Pedidos y Cocina: Maneja los pedidos de los clientes y su estado en la cocina.
 Gestión de Empleados: Administra la información de los empleados, sus días libres y sus nóminas.
 Facturación: Gestiona las facturas del restaurante.
 Reservas: Permite gestionar las reservas de los clientes.
-Estructura del Proyecto
+# Estructura del Proyecto
 Base de Datos
 Esquema E/R: Diagrama entidad-relación para la organización de la base de datos.
 Creación de Tablas: Scripts para la creación de las tablas necesarias.
-Páginas Web
+# Páginas Web
 Index.php: Página de inicio con la información básica de los trabajadores.
 Cocina.php: Página para la gestión de pedidos en la cocina.
 Conexión.php: Archivo de configuración para la conexión a la base de datos.
