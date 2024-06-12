@@ -38,7 +38,7 @@ Sistema.php: Menú con enlaces a la gestión de mesas y cocina.
 # Estilos CSS
 Estilo General: Organización de clases y estilos comunes para mantener consistencia visual.
 Adaptación a Tablets y Móviles: Optimización de la visualización para dispositivos móviles.
-Conclusión y Agradecimientos
+# Conclusión y Agradecimientos
 La finalidad de este proyecto es hacer que una persona sin ningún conocimiento de informática pueda gestionar su restaurante de una forma super intuitiva y fácil. Los empleados tendrán un agradable menú en el que podrán gestionar y llevar un control de las mesas y de la cocina. Además, el gerente podrá hacer la contabilidad de todos los empleados, tanto generar facturas, nóminas y muchas funciones más.
 
 Este proyecto lo he podido realizar de una forma eficiente gracias a los conocimientos que he adquirido en diferentes lenguajes (HTML, CSS, SQL, PHP, Javascript…) por mis profesores de mi grado superior, especialmente a Jose Manuel, mi profesor de Implantación de aplicaciones Web.
