@@ -1,11 +1,11 @@
-#Control de restauración
+# Control de restauración
 
 Bienvenido a este pequeño proyecto, mi nombre es Álvaro y os presento mi proyecto de gestión de restauración.
 
-Introducción
+# Introducción
 Este proyecto es un sistema completo para la gestión de restaurantes, desarrollado principalmente en web. Podemos controlar diferentes áreas del negocio, desde las mesas hasta la nómina de los empleados y la gestión de facturas.
 
-Funcionalidades
+# Funcionalidades
 Gestión de Mesas: Controla el estado de las mesas en tiempo real.
 Pedidos y Cocina: Maneja los pedidos de los clientes y su estado en la cocina.
 Gestión de Empleados: Administra la información de los empleados, sus días libres y sus nóminas.
@@ -35,7 +35,7 @@ Obtener_pedidos.php: Recupera los pedidos en estado "cocinando".
 Pedirdia.php: Gestión de solicitudes de días libres.
 Reservas.php: Gestión de reservas del restaurante.
 Sistema.php: Menú con enlaces a la gestión de mesas y cocina.
-Estilos CSS
+# Estilos CSS
 Estilo General: Organización de clases y estilos comunes para mantener consistencia visual.
 Adaptación a Tablets y Móviles: Optimización de la visualización para dispositivos móviles.
 Conclusión y Agradecimientos
