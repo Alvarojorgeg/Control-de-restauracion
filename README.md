@@ -17,6 +17,7 @@ Esquema E/R: Diagrama entidad-relación para la organización de la base de dato
 Creación de Tablas: Scripts para la creación de las tablas necesarias.
 # Páginas Web
 Index.php: Página de inicio con la información básica de los trabajadores.
+
 Cocina.php: Página para la gestión de pedidos en la cocina.
 Conexión.php: Archivo de configuración para la conexión a la base de datos.
 Configuración.php: Menú de configuración accesible solo para el Gerente.
