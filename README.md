@@ -16,10 +16,6 @@ Facturación: Gestiona las facturas del restaurante.
 
 Reservas: Permite gestionar las reservas de los clientes.
 
-# Estructura del Proyecto
-Base de Datos
-Esquema E/R: Diagrama entidad-relación para la organización de la base de datos.
-Creación de Tablas: Scripts para la creación de las tablas necesarias.
 # Páginas Web
 Index.php: Página de inicio con la información básica de los trabajadores.
 
