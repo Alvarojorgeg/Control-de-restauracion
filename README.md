@@ -33,27 +33,27 @@ Bienvenido a **AG Control**, soy Álvaro y he creado un ecosistema digital cread
 <table>
   <tr>
     <td align="center">
-      <img src="docs/img/seleccionar-usuario.png" alt="Pantalla de selección de usuario" width="360"><br>
+      <img src="seleccionar-usuario.png" alt="Pantalla de selección de usuario" width="360"><br>
       <sub><strong>Selección de usuario</strong> – Acceso mediante DNI y PIN a partir de <code>index.php</code>.</sub>
     </td>
     <td align="center">
-      <img src="docs/img/miperfil.png" alt="Perfil del empleado" width="360"><br>
+      <img src="miperfil.png" alt="Perfil del empleado" width="360"><br>
       <sub><strong>Mi perfil</strong> – Panel personal para fichajes, nóminas y datos del empleado (<code>miperfil.php</code>).</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/img/mesas-sistema.png" alt="Menú de sistema" width="360"><br>
+      <img src="mesas-sistema.png" alt="Menú de sistema" width="360"><br>
       <sub><strong>Menú del sistema</strong> – Puerta de entrada a sala y cocina (<code>sistema.php</code>).</sub>
     </td>
     <td align="center">
-      <img src="docs/img/pedir-pedido-mesa.png" alt="Gestión de pedidos" width="360"><br>
+      <img src="pedir-pedido-mesa.png" alt="Gestión de pedidos" width="360"><br>
       <sub><strong>Pedidos por mesa</strong> – Creación y seguimiento de comandas (<code>mesa.php</code>).</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/img/pedidos-realizados-tickers.png" alt="Tickets de cocina" width="360"><br>
+      <img src="pedidos-realizados-tickers.png" alt="Tickets de cocina" width="360"><br>
       <sub><strong>Monitor de cocina</strong> – Prioriza pedidos y estados en vivo (<code>cocina.php</code>).</sub>
     </td>
     <td align="center">
@@ -63,11 +63,11 @@ Bienvenido a **AG Control**, soy Álvaro y he creado un ecosistema digital cread
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/img/reservas.png" alt="Reservas de clientes" width="360"><br>
+      <img src="reservas.png" alt="Reservas de clientes" width="360"><br>
       <sub><strong>Reservas</strong> – Registro y control de mesas futuras (<code>reservas.php</code>).</sub>
     </td>
     <td align="center">
-      <img src="docs/img/diaslibres.png" alt="Gestión de días libres" width="360"><br>
+      <img src="diaslibres.png" alt="Gestión de días libres" width="360"><br>
       <sub><strong>Días libres</strong> – Flujo de solicitud y aprobación (<code>diaslibres.php</code>, <code>pedirdia.php</code>).</sub>
     </td>
   </tr>
