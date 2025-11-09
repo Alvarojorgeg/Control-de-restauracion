@@ -33,7 +33,7 @@ Bienvenido a **AG Control**, soy Álvaro y he creado un ecosistema digital cread
 <table>
   <tr>
     <td align="center">
-      <img src="seleccionar-usuario.png" alt="Pantalla de selección de usuario" width="360"><br>
+      <img src="seleccionarusuario.png" alt="Pantalla de selección de usuario" width="360"><br>
       <sub><strong>Selección de usuario</strong> – Acceso mediante DNI y PIN a partir de <code>index.php</code>.</sub>
     </td>
     <td align="center">
