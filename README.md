@@ -57,7 +57,7 @@ Bienvenido a **AG Control**, soy Álvaro y he creado un ecosistema digital cread
       <sub><strong>Monitor de cocina</strong> – Prioriza pedidos y estados en vivo (<code>cocina.php</code>).</sub>
     </td>
     <td align="center">
-      <img src="docs/img/menu.png" alt="Gestión del menú" width="360"><br>
+      <img src="menu.png" alt="Gestión del menú" width="360"><br>
       <sub><strong>Menú digital</strong> – Alta y mantenimiento del catálogo de platos (<code>menu.php</code>).</sub>
     </td>
   </tr>
