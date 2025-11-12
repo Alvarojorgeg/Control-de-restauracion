@@ -1,8 +1,6 @@
 # AG Control · Plataforma integral para la gestión de restaurantes
 
-Bienvenido a **AG Control**, soy Álvaro y he creado un ecosistema digital creado para dirigir la operación completa de un restaurante desde un único panel. Este proyecto combina procesos de sala, cocina, reservas, contabilidad y recursos humanos en un flujo coordinado, demostrando mi capacidad para diseñar soluciones end-to-end que transforman el día a día de un negocio de restauración.
-
-> ✨ *Objetivo profesional:* mostrar cómo integro experiencia de usuario, rigor técnico y visión de negocio para liderar proyectos digitales que convencen a dirección y facilitan el trabajo del equipo.
+Bienvenido a **AG Control**, soy Álvaro y he creado un sistema digital creado para dirigir la operación completa de un restaurante desde un único panel. Este proyecto combina procesos de sala, cocina, reservas, contabilidad y recursos humanos en un flujo coordinado, demostrando mi capacidad para diseñar soluciones end-to-end que transforman el día a día de un negocio de restauración.
 
 ---
 
@@ -170,18 +168,4 @@ Principales tablas definidas en <code>basededatos.sql</code>:
 
 ---
 
-## Roadmap sugerido
-- Autenticación con roles granular basados en JWT u OAuth para operar desde dispositivos personales.
-- Dashboard analítico con KPIs (ventas diarias, rotación de mesas, ausentismo) y gráficos dinámicos.
-- Integración con TPV y sistemas de pago para cerrar el circuito financiero.
-- Notificaciones push/email para confirmaciones de reserva y aprobaciones de días libres.
-- Internacionalización (ES/EN) para escalar a cadenas multinacionales.
-
----
-
-## Contacto
-¿Quieres saber más o ver una demo guiada? Escríbeme a **alvaro@gmail.com** o conecta en LinkedIn. Estaré encantado de mostrar cómo AG Control puede adaptarse a cualquier restaurante y, sobre todo, cómo puedo aportar valor a tu equipo.
-
----
-
-> Gracias por dedicar tiempo a conocer AG Control. Este proyecto es mi carta de presentación como desarrollador capaz de unir tecnología, experiencia de usuario y objetivos de negocio.
+> Gracias por dedicar tiempo a conocerm mi proyecto :)
